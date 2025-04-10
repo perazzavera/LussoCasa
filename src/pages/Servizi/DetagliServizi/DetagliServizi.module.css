@@ -3,6 +3,13 @@
   padding: 0 0 5em;
 }
 
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px 200px;
+}
+
 .details h3 {
   color: var(--verde);
   font-weight: 500;
@@ -10,13 +17,6 @@
 
 .details p {
   color: var(--verde-oliva);
-}
-
-.details {
-  display: flex;
-  align-items: center;
-  padding: 100px 200px;
-  justify-content: space-between;
 }
 
 .imagem {
@@ -45,4 +45,43 @@
 .botao:hover {
   background-color: var(--verde);
 }
-/* Servizi.module.css */
+
+@media (max-width: 1024px) and (min-width: 768px) {
+  .details {
+    padding: 2em 3em;
+    gap: 1em;
+  }
+
+  .details h3 {
+    font-size: 2em;
+  }
+
+  .details p {
+    color: var(--verde-oliva);
+  }
+}
+
+@media (max-width: 768px) {
+  .details {
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 2em;
+    padding: 1em;
+  }
+
+  .texto {
+    width: 100%;
+  }
+
+  .imagem {
+    width: 85vw;
+  }
+
+  .details h3 {
+    font-size: 2em;
+  }
+
+  .details p {
+    font-size: 1em;
+  }
+}

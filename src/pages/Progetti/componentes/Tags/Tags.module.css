@@ -37,3 +37,30 @@
   background-color: var(--verde);
   color: var(--rose);
 }
+
+@media (max-width: 1024px) and (min-width: 768px) {
+  .tag,
+  .tagSelecionada {
+    border-radius: 18px;
+    font-size: 16px;
+    padding: 1em 1.5em;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 2em 0;
+  }
+
+  .container div {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .tag,
+  .tagSelecionada {
+    border-radius: 18px;
+    font-size: 14px;
+    padding: 1em;
+  }
+}

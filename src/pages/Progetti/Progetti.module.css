@@ -72,20 +72,17 @@
   background-size: cover;
 }
 
-.overlay {
-  background-color: rgba(0, 56, 45, 0.4);
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
 .banner h2 {
   font-family: var(--fonte-terciaria);
   font-weight: 300;
   font-size: 5em;
+}
+
+.banner p {
+  font-size: 1.5em;
+  font-weight: 300;
+  padding: 0 12em;
+  text-align: center;
 }
 
 .bannerBottom {
@@ -96,9 +93,73 @@
   background-position: 30% 90%;
 }
 
-.banner p {
-  font-size: 1.5em;
-  font-weight: 300;
-  padding: 0 12em;
-  text-align: center;
+.overlay {
+  background-color: rgba(0, 56, 45, 0.4);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Tablets */
+@media (max-width: 1024px) and (min-width: 768px) {
+  .banner p {
+    padding: 0 2em;
+  }
+
+  .item {
+    width: 100%;
+  }
+
+  .imagem {
+    min-width: 100%;
+  }
+
+  .imagem img {
+    width: 100%;
+  }
+}
+
+/* Celulares */
+@media (max-width: 768px) {
+  .banner h2 {
+    font-size: 3em;
+  }
+
+  .banner p {
+    font-size: 1em;
+    padding: 0 2em;
+  }
+
+  .container {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 2em;
+    max-width: 100vw;
+  }
+
+  .item {
+    max-width: 100%;
+  }
+
+  .imagem {
+    max-width: 100%;
+  }
+
+  .imagem img {
+    min-width: auto;
+    max-width: 100%;
+    border-radius: 25px;
+    scale: 1 !important;
+  }
+
+  .item h3 {
+    font-size: 1.2em;
+  }
+
+  .item p {
+    font-size: 16px;
+  }
 }

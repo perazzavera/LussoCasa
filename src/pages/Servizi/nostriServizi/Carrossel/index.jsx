@@ -38,12 +38,29 @@ export default function Carrossel() {
       <Carousel
         value={immaginiExtra}
         itemTemplate={itemTemplate}
-        numVisible={3}
+        numVisible={3} // fallback padrão para desktop
         numScroll={1}
         circular
         prevIcon={prevButton}
         nextIcon={nextButton}
         autoplayInterval={3000}
+        responsiveOptions={[
+          {
+            breakpoint: "768px",
+            numVisible: 1,
+            numScroll: 1,
+          },
+          {
+            breakpoint: "1024px",
+            numVisible: 2,
+            numScroll: 1,
+          },
+          {
+            breakpoint: "1200px", // Desktop (opcional)
+            numVisible: 3,
+            numScroll: 1,
+          },
+        ]}
       />
     </div>
   );

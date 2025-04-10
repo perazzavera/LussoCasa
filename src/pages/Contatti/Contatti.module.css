@@ -9,6 +9,7 @@
   font-weight: 500;
 }
 
+/* Banner */
 .banner {
   background-image: url("/hero.jpg");
   width: 100%;
@@ -33,23 +34,26 @@
   color: var(--verde-claro);
 }
 
+/* Conteúdo */
 .conteudo {
   padding: 3em;
 }
 
+/* Contato */
 .contato {
   margin: 2em 15em;
   padding: 2em;
   background-color: var(--verde-oliva);
   display: flex;
   justify-content: space-around;
-  border-radius: 20px;
   align-items: center;
+  border-radius: 20px;
 }
 
 .contato h4 {
   font-family: var(--fonte-terciaria);
   font-size: 2em;
+  margin: 0;
 }
 
 .contato i {
@@ -64,12 +68,54 @@
   color: var(--verde);
 }
 
+/* Mapa */
 .mapa {
   background-color: var(--verde-claro);
+  max-width: 100%;
+  border-radius: 10px;
 }
 
 .mapa h2 {
   text-align: center;
   padding: 0.5em 0;
   font-family: var(--fonte-secundaria);
+}
+
+/* Tablet */
+@media (max-width: 1024px) and (min-width: 768px) {
+  .contato {
+    margin: 2em;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+
+  .conteudo {
+    padding: 0;
+  }
+
+  .mapa {
+    width: 50%;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .banner h2 {
+    font-size: 3em;
+  }
+
+  .conteudo {
+    padding: 1em;
+  }
+
+  .contato {
+    margin: 2em 0;
+    flex-direction: column;
+    padding: 2em;
+    gap: 2em;
+  }
+
+  .mapa h2 {
+    padding-top: 0.5em;
+  }
 }

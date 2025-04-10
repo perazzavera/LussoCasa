@@ -26,7 +26,13 @@ export default function DetagliServizi() {
           <h3>{servizio.titulo}</h3>
           <p>{servizio.testo}</p>
         </div>
-        <img className={styles.imagem} src={servizio.src} alt={servizio.alt} />
+        <div className={styles.ImgContainer}>
+          <img
+            className={styles.imagem}
+            src={servizio.src}
+            alt={servizio.alt}
+          />
+        </div>
       </div>
       <div className={`${styles.transition} ${ehVisivel ? "visible" : ""}`}>
         {ehVisivel && <Carrossel />}

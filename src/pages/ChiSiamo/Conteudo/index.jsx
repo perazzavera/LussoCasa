@@ -73,11 +73,7 @@ export default function Conteudo() {
             alt="Salone accogliente con arredi eleganti in stile rustico, ampie finestre che si affacciano su una foresta verdeggiante e pavimento in legno naturale."
           />
         </div>
-        <div
-          data-aos="fade-up"
-          data-aos-delay="700"
-          className="d-flex flex-wrap gap-5 justify-content-center py-5 mt-5"
-        >
+        <div data-aos="fade-up" data-aos-delay="700" className={styles.itens}>
           {servizi.map((servizio) => (
             <div className={styles.item}>
               <div>{servizio.icone}</div>

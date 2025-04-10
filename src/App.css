@@ -46,3 +46,9 @@ h1 {
   --bs-btn-close-color: #000;
   --bs-btn-close-bg: ;
 }
+
+@media (max-width: 768px) {
+  .navbar-nav .nav-link {
+    padding: 0.5em 1em;
+  }
+}

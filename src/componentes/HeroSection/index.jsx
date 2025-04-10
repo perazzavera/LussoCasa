@@ -11,6 +11,7 @@ export default function HeroSection() {
       once: false,
     });
   }, []);
+
   return (
     <section className={styles.container}>
       <div className={styles.overlay}>

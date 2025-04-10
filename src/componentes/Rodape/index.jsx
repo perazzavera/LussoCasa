@@ -8,7 +8,7 @@ export default function Rodape() {
       <div className={styles.conteudo}>
         <div className="d-flex flex-column align-items-center justify-content-center">
           <h2>LussoCasa</h2>
-          <p>"Dove l'eleganza prende forma"</p>
+          <p>Dove l'eleganza prende forma</p>
           <div className={styles.sociais}>
             <a href="instagram.com" target="_blank">
               <FaInstagram />
@@ -18,37 +18,39 @@ export default function Rodape() {
             </a>
           </div>
         </div>
-        <div>
-          <h5>Link Rapidi</h5>
-          <nav className={styles.links}>
-            <Link className={styles.link} to="/">
-              Home
-            </Link>
-            <Link className={styles.link} to="/servizi">
-              Servizi
-            </Link>
-            <Link className={styles.link} to="/contatti">
-              Contatti
-            </Link>
-            <Link className={styles.link} to="/chisiamo">
-              Chi Siamo
-            </Link>
-          </nav>
-        </div>
-        <div>
-          <h5>Contatti</h5>
-          <span className="d-flex align-items-center gap-3 pb-3">
-            <i class="bi bi-envelope fs-4" />
-            <p className="m-0">info@lussocasa.it</p>
-          </span>
-          <span className="d-flex align-items-center gap-3 pb-3">
-            <i class="bi bi-telephone fs-4" />
-            <p className="m-0">+39 012 345 6789</p>
-          </span>
-          <span className="d-flex align-items-center gap-3 pb-3">
-            <i class="bi bi-geo-alt fs-4" />
-            <p className="m-0">Torino, Italia</p>
-          </span>
+        <div className={styles.info}>
+          <div>
+            <h5>Link Rapidi</h5>
+            <nav className={styles.links}>
+              <Link className={styles.link} to="/">
+                Home
+              </Link>
+              <Link className={styles.link} to="/servizi">
+                Servizi
+              </Link>
+              <Link className={styles.link} to="/contatti">
+                Contatti
+              </Link>
+              <Link className={styles.link} to="/chisiamo">
+                Chi Siamo
+              </Link>
+            </nav>
+          </div>
+          <div>
+            <h5>Contatti</h5>
+            <span className={styles.contato}>
+              <i class="bi bi-envelope fs-6 fs-md-4" />
+              <p className="m-0">info@lussocasa.it</p>
+            </span>
+            <span className={styles.contato}>
+              <i class="bi bi-telephone fs-md-4" />
+              <p className="m-0">+39 012 345 6789</p>
+            </span>
+            <span className={styles.contato}>
+              <i class="bi bi-geo-alt fs-md-4" />
+              <p className="m-0">Torino, Italia</p>
+            </span>
+          </div>
         </div>
       </div>
       <div className={styles.direitos}>

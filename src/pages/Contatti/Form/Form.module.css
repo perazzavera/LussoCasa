@@ -9,6 +9,7 @@
   margin-bottom: 5em;
 }
 
+/* Formulário */
 .form {
   background-color: var(--verde-oliva);
   width: 100%;
@@ -16,13 +17,8 @@
   border-radius: 10px;
 }
 
-.input {
-  background-color: var(--branco);
-  border: 1px solid var(--verde);
-  border-radius: 10px;
-  padding: 0.5em;
-}
-
+/* Campos de entrada */
+.input,
 .textArea {
   background-color: var(--branco);
   border: 1px solid var(--verde);
@@ -30,19 +26,37 @@
   padding: 0.5em;
 }
 
+/* Botão */
 .botao {
   background-color: var(--verde);
   color: var(--verde-claro);
   padding: 0.5em;
-  border: none;
-  border-radius: 10px;
   margin-top: 1em;
-  transition: background-color 0.3s ease-in-out;
   border: 1px solid var(--verde);
+  border-radius: 10px;
+  transition: background-color 0.3s ease-in-out;
 }
 
 .botao:hover {
   background-color: var(--verde-oliva);
-  border: 1px solid var(--verde);
   color: var(--verde);
+  border: 1px solid var(--verde);
+}
+
+/* Responsivo: Tablet */
+@media (max-width: 1024px) and (min-width: 768px) {
+  .container {
+    margin: 4em 2em;
+  }
+}
+
+/* Responsivo: Mobile */
+@media (max-width: 768px) {
+  .container {
+    margin: 0 1em 2em 1em;
+  }
+
+  .container h3 {
+    font-size: 2em;
+  }
 }

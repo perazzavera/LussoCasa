@@ -1,13 +1,10 @@
 .container {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: space-around;
   padding: 6em 200px;
   background-color: var(--verde);
-}
-.container {
-  display: flex;
-  flex-direction: column;
 }
 
 .conteudo {
@@ -34,9 +31,9 @@
 }
 
 .imagem {
-  width: 1210px; /* ou o tamanho desejado */
+  width: 1210px;
   height: 541px;
-  overflow: hidden; /* garante que nada ultrapasse */
+  overflow: hidden;
   border-radius: 100px;
   position: relative;
 }
@@ -47,21 +44,21 @@
   object-fit: cover;
   object-position: center;
   display: block;
-  transition: transform 0.3s ease; /* animação suave para expandir */
+  transition: transform 0.3s ease;
 }
 
 .botao {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); /* centraliza o botão */
+  transform: translate(-50%, -50%);
   padding: 1em 1.5em;
   background-color: var(--cinza);
   border-radius: 50%;
   color: var(--verde);
   border: none;
   cursor: pointer;
-  z-index: 1; /* garante que o botão fique sobre a imagem */
+  z-index: 1;
 }
 
 .bannerBottom {
@@ -79,4 +76,55 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Responsivo para tablets */
+@media (max-width: 1024px) and (min-width: 768px) {
+  .container {
+    padding: 4em 4em;
+  }
+
+  .container h3 {
+    font-size: 2.5em;
+  }
+
+  .conteudo {
+    padding-bottom: 2em;
+  }
+
+  .info {
+    padding: 0;
+  }
+
+  .imagem {
+    width: 100%;
+  }
+}
+
+/* Responsivo para celulares */
+@media (max-width: 768px) {
+  .container {
+    padding: 3em 1em;
+  }
+
+  .container h3 {
+    font-size: 1.5em;
+  }
+
+  .container p {
+    font-size: 1em;
+  }
+
+  .conteudo {
+    padding-bottom: 2em;
+  }
+
+  .info {
+    padding: 0;
+  }
+
+  .imagem {
+    max-width: 100%;
+    border-radius: 50px;
+  }
 }
