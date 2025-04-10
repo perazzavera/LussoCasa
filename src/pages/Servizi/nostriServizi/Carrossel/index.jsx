@@ -4,7 +4,6 @@ import { useParams } from "react-router-dom";
 import data from "../../../../mocks/servizi.json";
 import styles from "./Carrossel.module.css";
 import { Button } from "primereact/button";
-import "primeicons/primeicons.css";
 
 export default function Carrossel() {
   const [immaginiExtra, setImmaginiExtra] = useState([]);
