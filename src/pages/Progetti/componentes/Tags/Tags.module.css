@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 3em 0;
+  background-color: var(--verde);
+}
+
+.container div {
+  display: flex;
+  border: 1px solid var(--verde-oliva);
+  max-width: max-content;
+  border-radius: 18px;
+}
+
+.tag,
+.tagSelecionada {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--verde-oliva);
+  border: none;
+  border-radius: 18px;
+  background-color: var(--verde);
+  font-size: 18px;
+  font-weight: 600;
+  padding: 1em 2em;
+  margin: 0;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.tag:hover {
+  background-color: var(--verde-oliva);
+  border-radius: 18px;
+  color: var(--verde);
+}
+
+.tagSelecionada {
+  background-color: var(--verde);
+  color: var(--rose);
+}

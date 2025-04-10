@@ -1,0 +1,104 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 200px;
+  background-color: var(--verde);
+}
+
+.item {
+  width: 580px;
+  max-height: 808px;
+  margin: 2em 0;
+}
+
+.item h3 {
+  font-family: var(--fonte-secundaria);
+  font-size: 26px;
+  line-height: 125%;
+  color: var(--verde-oliva);
+}
+
+.item p {
+  font-size: 18px;
+  line-height: 150%;
+  color: var(--verde-claro);
+  margin: 0;
+}
+
+.imagem img {
+  min-width: 580px;
+  max-height: 700px;
+  border-radius: 50px;
+  box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.3);
+  transition: scale 0.3s ease-in-out;
+}
+
+.imagem img:hover {
+  scale: 1.05;
+}
+
+.link {
+  background-color: var(--cinza);
+  border: none;
+  padding: 1.2em 1.2em 1em;
+  border-radius: 50%;
+  margin-left: 1em;
+  transition: background-color 0.3s ease-in-out;
+  color: var(--verde);
+}
+
+.link:hover {
+  background-color: var(--verde-oliva);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  padding: 3em 0;
+  background-color: var(--verde);
+}
+
+.css-1ahfael-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: var(--cinza-secundario) !important;
+  border: 1px solid var(--bege) !important;
+}
+
+.banner {
+  background-image: url("/chi siamo.jpg");
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-size: cover;
+}
+
+.overlay {
+  background-color: rgba(0, 56, 45, 0.4);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner h2 {
+  font-family: var(--fonte-terciaria);
+  font-weight: 300;
+  font-size: 5em;
+}
+
+.bannerBottom {
+  height: 300px;
+  background-image: url("/banner-bottom.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 30% 90%;
+}
+
+.banner p {
+  font-size: 1.5em;
+  font-weight: 300;
+  padding: 0 12em;
+  text-align: center;
+}

@@ -1,0 +1,28 @@
+.container {
+  background-color: var(--verde-claro);
+  display: flex;
+  align-items: center;
+}
+
+.titulo {
+  color: var(--verde);
+  margin: 0;
+}
+
+.link {
+  font-weight: 500;
+  border-radius: 10px;
+  color: var(--verde);
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.container li {
+  border-radius: 10px;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.link:hover {
+  background-color: var(--verde);
+  color: var(--verde-oliva);
+  border-radius: 10px;
+}

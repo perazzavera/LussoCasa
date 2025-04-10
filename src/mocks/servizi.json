@@ -1,0 +1,189 @@
+{
+  "servizi": [
+    {
+      "id": 1,
+      "src": "/servizi/design-personalizzato.jpg",
+      "alt": "Elegante lobby di hotel con una grande scalinata bianca, pavimenti in marmo e sedie in velluto corallo disposte attorno a un tavolo rotondo",
+      "titulo": "Design Personalizzato",
+      "subtitulo": "Progettiamo spazi unici che riflettono la tua personalità, creando ambienti su misura per il tuo stile di vita.",
+      "testo": "Il nostro servizio di Design Personalizzato è pensato per creare ambienti esclusivi che rispecchiano perfettamente la tua personalità e il tuo stile di vita. Collaboriamo con te per ideare spazi che non solo siano esteticamente impeccabili, ma che soddisfino anche tutte le tue esigenze funzionali. Ogni progetto è un'opera unica, progettata nei minimi dettagli, combinando eleganza e comfort in modo perfetto. Lavoriamo con i migliori materiali e tecniche, per offrire una qualità superiore che dura nel tempo.",
+      "categoria": "design"
+    },
+    {
+      "id": 2,
+      "src": "/servizi/arredi-lusso.jpg",
+      "alt": "Angolo moderno del soggiorno con pareti verde salvia, poltrona in velluto pesca, carrello da bar dorato e piante verdi lussureggianti",
+      "titulo": "Arredi di Lusso",
+      "subtitulo": "Mobili esclusivi realizzati dai migliori artigiani italiani, dove tradizione e innovazione si fondono in perfetta armonia.",
+      "testo": "Con il nostro servizio di Arredi di Lusso, ogni pezzo che scegli per la tua casa è il risultato di un'attenta selezione di materiali pregiati e lavorazioni artigianali di alta classe. Collaboriamo con i migliori artigiani italiani, esperti nel realizzare mobili che non solo abbelliscono, ma arricchiscono gli spazi con eleganza e funzionalità. Ogni mobile è un capolavoro che unisce tradizione e innovazione, con un design che si distingue per la sua unicità. Scegliere il nostro arredo significa investire in pezzi che sono destinati a durare nel tempo, portando nella tua casa il vero lusso del design italiano.",
+      "categoria": "arredi"
+    },
+    {
+      "id": 3,
+      "src": "/servizi/consulenza-elite.jpg",
+      "alt": "Spazio living contemporaneo open-space con divano modulare grigio, tavolino da caffè in marmo e cucina moderna con frigorifero SMEG bianco",
+      "titulo": "Consulenza Elite",
+      "subtitulo": "Servizio di consulenza personalizzato per creare spazi che uniscono estetica raffinata e funzionalità superiore.",
+      "testo": "Il nostro servizio di Consulenza Elite ti offre un'esperienza personalizzata per trasformare la tua casa in uno spazio che unisce estetica raffinata e funzionalità superiore. Offriamo un supporto completo, dall'analisi delle tue necessità alla selezione dei materiali, fino alla gestione di ogni dettaglio del progetto. Con un approccio su misura, i nostri consulenti ti guideranno passo dopo passo nella creazione di ambienti che riflettono la tua personalità, combinando il meglio del design moderno con soluzioni pratiche e raffinate. Sia che si tratti di una ristrutturazione completa o di un intervento mirato, il nostro obiettivo è trasformare ogni angolo della tua casa in un riflesso di eleganza.",
+      "categoria": "consulenza"
+    },
+    {
+      "id": 4,
+      "src": "/servizi/finiture-premium.jpg",
+      "alt": "Design di bagno moderno con specchio ovale retroilluminato, lavabo in terracotta, mobile in legno e piastrelle decorative con motivi",
+      "titulo": "Finiture Premium",
+      "subtitulo": "Materiali pregiati e finiture esclusive che elevano ogni progetto a un nuovo livello di raffinatezza.",
+      "testo": "Le Finiture Premium sono la chiave per elevare ogni progetto a un nuovo livello di raffinatezza. Utilizziamo solo i materiali più esclusivi, come legni pregiati, marmi lucidi, metalli finemente lavorati e tessuti di alta qualità, per offrire un'esperienza sensoriale senza pari. Ogni finitura è pensata per arricchire gli spazi, aggiungendo eleganza e un tocco di lusso discreto. Con una cura particolare per ogni dettaglio, le nostre finiture non solo valorizzano l'aspetto estetico, ma assicurano anche durata e resistenza nel tempo. Con il nostro servizio di finiture, ogni ambiente sarà impreziosito da un design impeccabile che ti farà sentire come se fossi in una casa da sogno.",
+      "categoria": "finiture"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 5,
+      "src": "/servizi/arredi1.jpg",
+      "alt": "Luxurious tufted camel velvet sofa with white sheepskin throw, positioned near a window with natural light",
+      "categoria": "arredi"
+    },
+    {
+      "id": 6,
+      "src": "/servizi/arredi2.jpg",
+      "alt": "Opulent sitting area with emerald velvet chairs, ornate gold-trimmed details, and geometric patterned floor",
+      "categoria": "arredi"
+    },
+    {
+      "id": 7,
+      "src": "/servizi/arredi3.jpg",
+      "alt": "Minimalist living room with grey tufted sofas, wooden wall panels, and modern round coffee table",
+      "categoria": "arredi"
+    },
+    {
+      "id": 8,
+      "src": "/servizi/arredi4.jpg",
+      "alt": "Modern study corner with rattan lounge chair, minimalist desk, and contemporary globe pendant light",
+      "categoria": "arredi"
+    },
+    {
+      "id": 9,
+      "src": "/servizi/arredi5.jpg",
+      "alt": "Mid-century modern navy velvet sofa with tufted details, paired with mauve shag rug and dried pampas grass decor",
+      "categoria": "arredi"
+    },
+    {
+      "id": 10,
+      "src": "/servizi/arredi6.jpg",
+      "alt": "Classic Victorian armchair with ornate carved wood frame and cream striped upholstery in a bright white room",
+      "categoria": "arredi"
+    },
+
+    {
+      "id": 11,
+      "src": "/servizi/consulenza1.jpg",
+      "alt": "Modern open-concept kitchen and dining area with sage green cabinets, pendant lights, and city views through floor-to-ceiling windows",
+      "categoria": "consulenza"
+    },
+    {
+      "id": 12,
+      "src": "/servizi/consulenza2.jpg",
+      "alt": "Contemporary dining room with wooden table, modern pendant lights, and floor-to-ceiling windows overlooking a garden",
+      "categoria": "consulenza"
+    },
+    {
+      "id": 13,
+      "src": "/servizi/consulenza3.jpg",
+      "alt": "Modern penthouse living room with high ceilings, large sectional sofa, and panoramic windows with mountain artwork",
+      "categoria": "consulenza"
+    },
+    {
+      "id": 14,
+      "src": "/servizi/consulenza4.jpg",
+      "alt": "Minimalist living room with arched doorway, wooden floors, and modern furniture featuring a wood stove and natural light",
+      "categoria": "consulenza"
+    },
+    {
+      "id": 15,
+      "src": "/servizi/consulenza5.jpg",
+      "alt": "Contemporary media room with dark walls, built-in TV unit, grey sectional sofa, and floor-to-ceiling garden view windows",
+      "categoria": "consulenza"
+    },
+    {
+      "id": 16,
+      "src": "/servizi/consulenza6.jpg",
+      "alt": "Boho-modern living room with orange accent chair, brass mirror, yellow sideboard, and tropical plants in gold planters",
+      "categoria": "consulenza"
+    },
+
+    {
+      "id": 17,
+      "src": "/servizi/design1.jpg",
+      "alt": "Modern farmhouse living room with woven leather chairs, round wood coffee table, black chandelier, and shiplap walls",
+      "categoria": "design"
+    },
+    {
+      "id": 18,
+      "src": "/servizi/design2.jpg",
+      "alt": "Mediterranean-style hallway with ornate ceiling, arched windows, vintage green leather chair, and climbing plants",
+      "categoria": "design"
+    },
+    {
+      "id": 19,
+      "src": "/servizi/design3.jpg",
+      "alt": "Moody lounge area with terracotta velvet sofa, rattan sunburst mirror, teal curtains, and industrial floor lamp",
+      "categoria": "design"
+    },
+    {
+      "id": 20,
+      "src": "/servizi/design4.jpg",
+      "alt": "Modern living room with grey sofa, brown cushions, and large windows with concrete wall features",
+      "categoria": "design"
+    },
+    {
+      "id": 21,
+      "src": "/servizi/design5.jpg",
+      "alt": "Cozy open concept living room with beige sectional sofa, concrete coffee table, and modern white kitchen cabinets",
+      "categoria": "design"
+    },
+    {
+      "id": 27,
+      "src": "/servizi/design6.jpg",
+      "alt": "Cozy open concept living room with beige sectional sofa, concrete coffee table, and modern white kitchen cabinets",
+      "categoria": "design"
+    },
+
+    {
+      "id": 22,
+      "src": "/servizi/finiture1.jpg",
+      "alt": "Modern entryway featuring round mirror, rattan cabinet, wooden herringbone flooring, and indoor plants",
+      "categoria": "finiture"
+    },
+    {
+      "id": 23,
+      "src": "/servizi/finiture2.jpg",
+      "alt": "Luxury gold wire accent chair with purple velvet cushions next to decorative accessories",
+      "categoria": "finiture"
+    },
+    {
+      "id": 24,
+      "src": "/servizi/finiture3.jpg",
+      "alt": "Elegant dining and living space with marble backsplash, geometric pendant lights, and grey sofa with decorative pillows",
+      "categoria": "finiture"
+    },
+    {
+      "id": 25,
+      "src": "/servizi/finiture4.jpg",
+      "alt": "Classic entryway with emerald velvet ottoman, abstract artwork, brass wall sconces, and parquet flooring",
+      "categoria": "finiture"
+    },
+    {
+      "id": 26,
+      "src": "/servizi/finiture5.jpg",
+      "alt": "Modern coastal living space with turquoise sculptural side tables, bamboo lanterns, and eucalyptus arrangement",
+      "categoria": "finiture"
+    },
+    {
+      "id": 28,
+      "src": "/servizi/finiture6.jpg",
+      "alt": "Modern coastal living space with turquoise sculptural side tables, bamboo lanterns, and eucalyptus arrangement",
+      "categoria": "finiture"
+    }
+  ]
+}

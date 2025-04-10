@@ -1,0 +1,10 @@
+.conteudo {
+  position: relative;
+  z-index: 1055 !important; /* Aumenta o z-index do modal */
+}
+
+.botao {
+  position: absolute;
+  right: 8%;
+  top: 2%;
+}

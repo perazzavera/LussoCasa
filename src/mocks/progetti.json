@@ -1,0 +1,272 @@
+[
+  {
+    "id": 9,
+    "titulo": "Rifugio Botanico",
+    "subtitulo": "Camera da letto ispirata alla natura con piante sospese",
+    "src": "/nostriProgetti/bedroom3.png",
+    "alt": "Camera accogliente con pareti verde salvia, galleria botanica e piante sospese",
+    "texto": "Questo design sereno della camera da letto integra perfettamente elementi naturali con comfort moderno, creando un rifugio botanico pacifico. Le pareti verde salvia offrono uno sfondo rilassante per una collezione di stampe botaniche e piante viventi che danno vita allo spazio.<br><br>I mobili selezionati con cura in tonalità legno naturale completano il tema organico, mentre un'illuminazione strategica esalta l'atmosfera tranquilla della stanza. La combinazione di texture, dalla biancheria morbida ai cesti intrecciati e alle piante ricadenti, aggiunge profondità e interesse a questo santuario ispirato alla natura.",
+    "tag": "Camera da letto"
+  },
+  {
+    "id": 18,
+    "titulo": "Cucina Industriale Moderna",
+    "subtitulo": "Isola in cemento con dettagli in metallo ondulato",
+    "src": "/nostriProgetti/kitchen6.jpg",
+    "alt": "Cucina moderna con piano di lavoro in cemento, sgabelli industriali e luci sospese geometriche",
+    "texto": "Questo straordinario design della cucina fonde magistralmente elementi industriali con sofisticatezza contemporanea. L'isola centrale in cemento presenta dettagli unici in metallo ondulato, creando un'audace dichiarazione senza compromettere la funzionalità. Lo spazio è illuminato da luci sospese architettoniche che aggiungono stile e scopo.<br><br>Gli elettrodomestici di alta qualità con finitura acciaio spazzolato completano l'estetica industriale, mentre i dettagli in legno caldo ammorbidiscono l'aspetto generale. L'integrazione ragionata dei materiali - cemento, metallo e legno - crea uno spazio armonioso che è sia sorprendente che accogliente.",
+    "tag": "Cucina"
+  },
+  {
+    "id": 13,
+    "titulo": "Cucina Moderna in Stile Farmhouse",
+    "subtitulo": "Cucina luminosa con scaffali aperti ed elementi naturali",
+    "src": "/nostriProgetti/kitchen1.jpg",
+    "alt": "Cucina bianca con scaffali in legno, ortensie ed elettrodomestici moderni",
+    "texto": "Questa cucina luminosa e ariosa cattura perfettamente l'essenza del design moderno in stile farmhouse. I mobili bianchi e puliti offrono una tela fresca, mentre gli scaffali aperti in legno aggiungono calore e funzionalità. Ortensie fresche ed elementi naturali portano vita e colore allo spazio.<br><br>Il design integra perfettamente elettrodomestici moderni con elementi tradizionali, presentando un lavello farmhouse e hardware classico. La combinazione di texture - dai piani di lavoro lisci al legno grezzo - crea uno spazio che è sia sofisticato che comodamente casual.",
+    "tag": "Cucina"
+  },
+  {
+    "id": 4,
+    "titulo": "Bagno degli Ospiti Paradiso Floreale",
+    "subtitulo": "Bagno allegro con carta da parati floreale e mobile verde menta",
+    "src": "/nostriProgetti/bathroom4.jpg",
+    "alt": "Bagno luminoso con carta da parati colorata floreale e mobile galleggiante verde menta",
+    "texto": "Questo delizioso bagno degli ospiti mostra un perfetto equilibrio tra giocosità e sofisticatezza. La splendida carta da parati floreale crea un'atmosfera da giardino, mentre il mobile galleggiante verde menta aggiunge un tocco moderno di colore. Accessori e rubinetteria dorata forniscono accenti eleganti in tutto lo spazio.<br><br>Il design attento si estende a ogni dettaglio, dallo specchio perfettamente incorniciato al tappetino geometrico coordinato. Il risultato è un bagno degli ospiti che sembra sia giocoso che raffinato, creando uno spazio memorabile per gli ospiti.",
+    "tag": "Bagno"
+  },
+  {
+    "id": 20,
+    "titulo": "Soggiorno Scandinavo",
+    "subtitulo": "Design minimalista con texture naturali",
+    "src": "/nostriProgetti/living2.jpg",
+    "alt": "Soggiorno scandinavo con divano grigio, tavolino in legno e stampe geometriche",
+    "texto": "Questo spazio abitativo incarna l'essenza del design scandinavo con le sue linee pulite e il minimalismo ragionato. Il divano grigio scelto con cura offre comodi posti a sedere mantenendo l'estetica elegante della stanza. Gli elementi in legno naturale aggiungono calore e texture organica allo spazio.<br><br>Stampe geometriche e accessori selezionati con cura aggiungono interesse visivo senza ingombrare lo spazio. Il risultato è un'armoniosa fusione di forma e funzione, creando un'area living che è sia bella che pratica.",
+    "tag": "Soggiorno"
+  },
+  {
+    "id": 1,
+    "titulo": "Bagno con Fascino da Cottage",
+    "subtitulo": "Bagno bianco classico con pavimento a scacchiera ed elementi naturali",
+    "src": "/nostriProgetti/bathroom1.jpg",
+    "alt": "Bagno bianco con pavimento a scacchiera bianco e nero, piante e lavabo a colonna",
+    "texto": "Questo affascinante bagno combina elementi senza tempo con tocchi freschi e naturali per creare uno spazio accogliente. Il classico pavimento a scacchiera bianco e nero stabilisce una base solida, mentre le pareti bianche e i sanitari mantengono un'estetica luminosa e pulita.<br><br>Piante vive e materiali naturali aggiungono calore e vita allo spazio, creando un'atmosfera rinfrescante. Il lavabo a colonna e i rubinetti tradizionali onorano il design classico pur sentendosi completamente contemporanei in questa stanza composta con attenzione.",
+    "tag": "Bagno"
+  },
+  {
+    "id": 6,
+    "titulo": "Doccia Walk-In con Luce Naturale",
+    "subtitulo": "Doccia spaziosa con rubinetteria dorata e vista sul giardino",
+    "src": "/nostriProgetti/bathroom6.jpg",
+    "alt": "Doccia walk-in moderna con parete in vetro, rubinetteria dorata e finestra con vista sul giardino",
+    "texto": "Questa lussuosa doccia walk-in crea un'esperienza da spa con il suo design attento e materiali premium. La grande finestra incornicia una vista pacifica sul giardino mantenendo la privacy, portando luce naturale ed elementi esterni nello spazio.<br><br>La rubinetteria dorata premium aggiunge un tocco di lusso, mentre la parete in vetro mantiene lo spazio aperto e arioso. L'attenzione ai dettagli, dalla selezione delle piastrelle al design dell'illuminazione, crea una vera e propria esperienza di bagno indulgente.",
+    "tag": "Bagno"
+  },
+  {
+    "id": 23,
+    "titulo": "Urbano Industriale",
+    "subtitulo": "Texture in cemento e pelle",
+    "src": "/nostriProgetti/living5.jpg",
+    "alt": "Soggiorno industriale con pareti in cemento, finestre dal pavimento al soffitto e divano in pelle",
+    "texto": "Questo sofisticato spazio abitativo combina magistralmente elementi industriali con comfort moderno. Le pareti in cemento grezzo offrono uno sfondo sorprendente, mentre le finestre dal pavimento al soffitto inondano lo spazio di luce naturale. Il ricco divano in pelle aggiunge calore e lusso all'ambientazione industriale.<br><br>L'illuminazione e gli accessori scelti con cura ammorbidiscono lo spazio mantenendo il suo carattere urbano. Il risultato è un soggiorno che sembra sia drammatico che accogliente, perfetto per la vita moderna in città.",
+    "tag": "Soggiorno"
+  },
+  {
+    "id": 14,
+    "titulo": "Cucina con Fascino Rustico",
+    "subtitulo": "Cucina in stile farmhouse con elementi vintage",
+    "src": "/nostriProgetti/kitchen2.jpg",
+    "alt": "Cucina con ante color crema, isola in legno e pentole di rame appese",
+    "texto": "Questa accogliente cucina riunisce il meglio del fascino farmhouse con la funzionalità moderna. Le ante color crema offrono uno sfondo caldo, mentre l'isola in legno aggiunge un punto focale rustico. Le pentole di rame appese aggiungono sia praticità che interesse visivo.<br><br>Il design incorpora elementi vintage ispirati mantenendo una sensazione fresca e attuale. Ogni dettaglio, dall'hardware degli armadi alle luci, è stato scelto per creare una cucina che è sia bella che funzionale.",
+    "tag": "Cucina"
+  },
+  {
+    "id": 17,
+    "titulo": "Dettaglio Elegante della Cucina",
+    "subtitulo": "Rubinetteria in ottone con erbe fresche e piano di lavoro in marmo",
+    "src": "/nostriProgetti/kitchen5.jpg",
+    "alt": "Piano cucina con rubinetto in ottone, erbe fresche e luci sospese in vetro",
+    "texto": "Questa cucina mostra la bellezza di un design attento ai dettagli. La rubinetteria in ottone fornisce un accento metallico caldo contro i piani di lavoro in marmo freddo, mentre le erbe fresche aggiungono vita e funzionalità allo spazio. Le luci sospese in vetro creano sia atmosfera che illuminazione per i compiti.<br><br>Ogni elemento è stato considerato con cura, dalla disposizione delle erbe alla selezione dei materiali, risultando in una cucina che è sia bella che pratica per l'uso quotidiano.",
+    "tag": "Cucina"
+  },
+  {
+    "id": 3,
+    "titulo": "Eleganza in Marmo e Oro",
+    "subtitulo": "Lussuoso bagno in marmo con accenti dorati e specchio ovale",
+    "src": "/nostriProgetti/bathroom3.jpg",
+    "alt": "Bagno elegante con pareti in marmo, specchio ovale con cornice dorata e lavabo a vaschetta",
+    "texto": "Questo lussuoso bagno esemplifica un design sofisticato con le sue splendide pareti in marmo e gli accenti dorati scelti con cura. Lo specchio ovale serve come bellissimo punto focale, esaltato da un'illuminazione elegante che crea un'atmosfera calda e invitante.<br><br>Il mobile sospeso e il lavabo a vaschetta aggiungono elementi contemporanei mantenendo l'eleganza classica dello spazio. Ogni dettaglio, dagli accessori agli elementi decorativi sottili, contribuisce a creare una vera e propria esperienza di bagno lussuosa.",
+    "tag": "Bagno"
+  },
+  {
+    "id": 11,
+    "titulo": "Rifugio Sereno in Grigio",
+    "subtitulo": "Camera da letto contemporanea con vista sulla natura",
+    "src": "/nostriProgetti/bedroom5.png",
+    "alt": "Camera da letto moderna con pareti grigie, pavimento in legno e grande finestra che si affaccia sugli alberi",
+    "texto": "Questa camera da letto contemporanea crea un rifugio pacifico attraverso l'uso ragionato del colore e della luce naturale. Le sofisticate pareti grigie offrono uno sfondo rilassante, mentre le grandi finestre incorniciano una vista serena sulla natura. I pavimenti in legno aggiungono calore e texture naturale allo spazio.<br><br>La selezione e disposizione dei mobili massimizzano sia il comfort che la funzionalità, mentre gli accessori scelti con cura aggiungono personalità senza ingombrare l'atmosfera serena.",
+    "tag": "Camera da letto"
+  },
+  {
+    "id": 19,
+    "titulo": "Soggiorno in Grattacielo",
+    "subtitulo": "Spazio contemporaneo con finestre dal pavimento al soffitto",
+    "src": "/nostriProgetti/living1.jpg",
+    "alt": "Soggiorno moderno con divano a sezionale e opera d'arte montana",
+    "texto": "Questo soggiorno contemporaneo sfrutta appieno la sua posizione elevata con finestre drammatiche dal pavimento al soffitto. Il moderno divano a sezionale offre comodi posti a sedere mantenendo linee pulite che completano l'architettura dello spazio. L'opera d'arte montana crea un sorprendente punto focale.<br><br>L'attento equilibrio di texture e materiali crea un'atmosfera sofisticata ma accogliente, perfetta sia per intrattenere che per rilassarsi.",
+    "tag": "Soggiorno"
+  },
+  {
+    "id": 12,
+    "titulo": "Conforto Classico",
+    "subtitulo": "Camera da letto elegante con toni neutri",
+    "src": "/nostriProgetti/bedroom6.png",
+    "alt": "Camera da letto tradizionale con testiera imbottita, biancheria bianca e luci sospese",
+    "texto": "Questa elegante camera da letto combina elementi tradizionali con comfort moderno per creare un rifugio senza tempo. La testiera imbottita offre un punto focale classico, mentre la biancheria bianca e fresca aggiunge un lusso simile a quello di un hotel. Le luci sospese aggiungono sia stile che funzionalità.<br><br>La palette di colori neutri crea un'atmosfera calmante, mentre le texture scelte con cura aggiungono profondità e interesse allo spazio. Ogni elemento lavora insieme per creare una camera da letto sofisticata ma confortevole.",
+    "tag": "Camera da letto"
+  },
+  {
+    "id": 5,
+    "titulo": "Santuario Zen",
+    "subtitulo": "Bagno minimalista con vasca nera e luce naturale",
+    "src": "/nostriProgetti/bathroom5.jpg",
+    "alt": "Bagno minimalista con vasca rotonda nera e finestra dal pavimento al soffitto",
+    "texto": "Questo bagno minimalista crea un rifugio tipo spa con la sua sorprendente vasca da bagno nera e il design attento. La finestra dal pavimento al soffitto porta luce naturale e viste esterne nello spazio mantenendo la privacy. Le linee pulite e i materiali semplici creano un senso di calma.<br><br>Ogni elemento è stato scelto con cura per contribuire all'atmosfera pacifica, dai toni legno caldi all'illuminazione sottile. Il risultato è uno spazio veramente tranquillo perfetto per il relax e il ringiovanimento.",
+    "tag": "Bagno"
+  },
+  {
+    "id": 21,
+    "titulo": "Soggiorno in Villa Mediterranea",
+    "subtitulo": "Eleganza rustica con finestre ad arco",
+    "src": "/nostriProgetti/living3.jpg",
+    "alt": "Soggiorno luminoso con travi in legno a vista, finestre ad arco e camino in mattoni bianchi",
+    "texto": "Questo splendido soggiorno cattura l'essenza dello stile mediterraneo con i suoi elementi architettonici e materiali naturali. Le travi in legno a vista e le finestre ad arco creano un drammatico interesse visivo, mentre il camino in mattoni bianchi aggiunge fascino rustico.<br><br>I mobili e gli accessori sono stati scelti con cura per completare le caratteristiche architettoniche offrendo comfort e funzionalità. La luce naturale inonda lo spazio, evidenziando i bei materiali e creando un'atmosfera invitante.",
+    "tag": "Soggiorno"
+  },
+  {
+    "id": 15,
+    "titulo": "Eleganza Contemporanea",
+    "subtitulo": "Cucina moderna con dettagli sofisticati",
+    "src": "/nostriProgetti/kitchen3.jpg",
+    "alt": "Cucina lussuosa con pannelli in legno e nero, vetrina e sgabello da bar color smeraldo",
+    "texto": "Questa sofisticata cucina combina lusso e funzionalità attraverso il suo design attento e materiali premium. Il contrasto tra pannelli in legno e nero crea un dramma visivo, mentre le vetrine aggiungono eleganza e praticità. Gli sgabelli da bar smeraldo offrono un tocco di colore e seduta comoda.<br><br>Ogni dettaglio è stato considerato con cura, dal design dell'illuminazione alla selezione dell'hardware, creando una cucina che è sia bella che altamente funzionale.",
+    "tag": "Cucina"
+  },
+  {
+    "id": 22,
+    "titulo": "Minimalista Moderno",
+    "subtitulo": "Design contemporaneo in nero e grigio",
+    "src": "/nostriProgetti/living4.jpg",
+    "alt": "Soggiorno moderno con divano grigio, arte astratta e lampada da parete industriale",
+    "texto": "Questo soggiorno contemporaneo raggiunge la sofisticatezza attraverso un'attenta moderazione e un design ragionato. Il divano grigio offre comodi posti a sedere mantenendo linee pulite, e l'arte astratta aggiunge interesse visivo e personalità. La lampada da parete industriale combina forma e funzione.<br><br>L'attenta selezione di materiali e texture crea profondità all'interno della palette minimalista, risultando in uno spazio che sembra sia moderno che accogliente.",
+    "tag": "Soggiorno"
+  },
+  {
+    "id": 7,
+    "titulo": "Rifugio con Vista sul Mare",
+    "subtitulo": "Camera da letto luminosa con vista panoramica sulla città",
+    "src": "/nostriProgetti/bedroom1.png",
+    "alt": "Camera da letto moderna con grandi finestre, accenti turchesi e vista sulla città",
+    "texto": "Questa moderna camera da letto sfrutta appieno la sua splendida posizione con grandi finestre che incorniciano una vista panoramica sulla città. Gli accenti turchesi aggiungono colore e personalità alla palette neutra, mantenendo l'atmosfera sofisticata della stanza.<br><br>La disposizione dei mobili massimizza sia la vista che la funzionalità dello spazio, creando un rifugio pacifico che si sente connesso al paesaggio urbano oltre.",
+    "tag": "Camera da letto"
+  },
+  {
+    "id": 16,
+    "titulo": "Cucina Moderna in Stile Farmhouse",
+    "subtitulo": "Ante scure con piastrelle subway bianche",
+    "src": "/nostriProgetti/kitchen4.jpg",
+    "alt": "Cucina moderna con ante grigio scuro, piastrelle subway bianche e scaffali galleggianti in legno",
+    "texto": "Questa cucina combina splendidamente elementi moderni in stile farmhouse con stile contemporaneo. Le ante grigio scuro offrono un drammatico contrasto con le classiche piastrelle subway bianche, mentre gli scaffali galleggianti in legno aggiungono calore e spazio espositivo.<br><br>Il design bilancia con successo la comodità moderna con il fascino rustico, creando una cucina che è sia elegante che pratica per l'uso quotidiano.",
+    "tag": "Cucina"
+  },
+  {
+    "id": 8,
+    "titulo": "Oasi Urbana Vivace",
+    "subtitulo": "Camera da letto contemporanea con accenti arancioni audaci",
+    "src": "/nostriProgetti/bedroom2.png",
+    "alt": "Camera da letto moderna con cuscini arancioni, arte astratta e lampade metalliche",
+    "texto": "Questa camera da letto contemporanea crea energia e stile attraverso l'uso audace del colore e elementi di design moderno. I cuscini arancioni offrono vibranti tocchi di colore, mentre l'arte astratta e le lampade metalliche aggiungono sofisticato interesse visivo.<br><br>L'equilibrio attento tra elementi audaci e neutri crea uno spazio che è sia energizzante che rilassante, perfetto per una casa urbana moderna.",
+    "tag": "Camera da letto"
+  },
+  {
+    "id": 2,
+    "titulo": "Lusso Monocromatico Moderno",
+    "subtitulo": "Bagno contemporaneo scuro con vasca freestanding e finestra panoramica",
+    "src": "/nostriProgetti/bathroom2.jpg",
+    "alt": "Bagno moderno scuro con vasca freestanding bianca e grande finestra",
+    "texto": "Questo lussuoso bagno crea dramma attraverso l'uso sofisticato di toni scuri e design contemporaneo. La vasca freestanding bianca offre un sorprendente contrasto con le superfici scure, mentre una grande finestra porta luce naturale e viste.<br><br>Ogni elemento è stato scelto con cura per contribuire all'atmosfera tipo spa, dal mobile sospeso all'hardware minimale, creando una vera e propria esperienza di bagno indulgente.",
+    "tag": "Bagno"
+  },
+  {
+    "id": 10,
+    "titulo": "Sofisticatezza Urbana",
+    "subtitulo": "Camera da letto minimalista moderna con illuminazione drammatica",
+    "src": "/nostriProgetti/bedroom4.png",
+    "alt": "Camera da letto contemporanea con pareti scure, persiane in legno e illuminazione ambientale",
+    "texto": "Questa sofisticata camera da letto crea atmosfera attraverso l'uso attento dell'illuminazione e materiali ricchi. Le pareti scure offrono uno sfondo drammatico, mentre un'illuminazione ambientale posizionata con cura crea calore e interesse. Le persiane in legno aggiungono texture naturale e controllo della privacy.<br><br>I mobili e gli accessori sono stati scelti per completare l'estetica moderna della stanza offrendo comfort e funzionalità.",
+    "tag": "Camera da letto"
+  },
+  {
+    "id": 24,
+    "titulo": "Rifugio con Soffitti Alti",
+    "subtitulo": "Spazio lussuoso e moderno",
+    "src": "/nostriProgetti/living6.jpg",
+    "alt": "Soggiorno contemporaneo con soffitti alti, arte murale geometrica e mobili moderni",
+    "texto": "Questo impressionante soggiorno sfrutta al massimo i suoi soffitti altissimi con un design attento ed elementi drammatici. L'arte murale geometrica attira lo sguardo verso l'alto, mentre i mobili moderni ancorano lo spazio e offrono comodi posti a sedere.<br><br>L'attento equilibrio di scala e proporzione crea uno spazio che sembra sia grandioso che accogliente, perfetto sia per la vita quotidiana che per intrattenere.",
+    "tag": "Soggiorno"
+  },
+  {
+    "id": 25,
+    "titulo": "Sala da Pranzo Rustica Moderna",
+    "subtitulo": "Eleganza con Travi a Vista",
+    "src": "/nostriProgetti/dining1.jpg",
+    "alt": "Sala da pranzo con travi in legno a vista e decorazioni floreali",
+    "texto": "Questa elegante sala da pranzo combina magistralmente elementi rustici e moderni per creare uno spazio accogliente per riunioni. Le travi in legno a vista aggiungono interesse architettonico e calore, mentre il moderno lampadario offre sia illuminazione che stile. La luce naturale inonda lo spazio attraverso grandi finestre, evidenziando i bei materiali e texture.<br><br>I mobili scelti con cura, inclusi comode sedute imbottite e un sostanzioso tavolo in legno, creano un ambiente invitante per pasti e conversazioni. L'aggiunta di composizioni floreali e opere d'arte aggiunge vita e personalità a questo sofisticato spazio da pranzo.",
+    "tag": "Sala da Pranzo"
+  },
+  {
+    "id": 26,
+    "titulo": "Sala da Pranzo Contemporanea",
+    "subtitulo": "Integrazione con Spazio Verde",
+    "src": "/nostriProgetti/dining2.jpg",
+    "alt": "Sala da pranzo moderna con vista sul giardino",
+    "texto": "Questo spazio da pranzo contemporaneo esemplifica il vivere indoor-outdoor con la sua connessione senza soluzione di continuità alla natura. Finestre dal pavimento al soffitto incorniciano lussureggianti viste sul giardino, mentre l'illuminazione sospesa moderna crea atmosfera e interesse visivo. Le linee pulite dei mobili completano gli elementi architettonici.<br><br>Il layout attento e la selezione dei materiali creano un ambiente da pranzo che sembra sia sofisticato che connesso al mondo naturale, perfetto per godersi i pasti mentre si ammira l'ambientazione del giardino pacifico.",
+    "tag": "Sala da Pranzo"
+  },
+  {
+    "id": 27,
+    "titulo": "Sala da Pranzo Integrata",
+    "subtitulo": "Open Concept con Cucina",
+    "src": "/nostriProgetti/dining3.jpg",
+    "alt": "Sala da pranzo integrata con cucina moderna",
+    "texto": "Questo spazio ben progettato mostra la bellezza del vivere open-concept, dove l'area pranzo fluisce senza soluzione di continuità nella cucina. Le luci sospese geometriche creano un sorprendente punto focale sopra il tavolo da pranzo, mentre l'attenta selezione dei materiali assicura coesione tra le due aree.<br><br>La combinazione di toni legno e colori neutri crea un'atmosfera calda e invitante, mentre i mobili e gli accessori moderni aggiungono sofisticatezza contemporanea a questo spazio multifunzionale.",
+    "tag": "Sala da Pranzo"
+  },
+  {
+    "id": 28,
+    "titulo": "Sala da Pranzo Moderna",
+    "subtitulo": "Illuminazione Contemporanea",
+    "src": "/nostriProgetti/dining4.jpg",
+    "alt": "Sala da pranzo con illuminazione moderna e finiture in legno",
+    "texto": "Questa moderna sala da pranzo crea impatto attraverso il suo sorprendente design di illuminazione e l'attenta selezione dei materiali. I moderni lampadari sospesi servono sia come illuminazione funzionale che elementi scultorei, mentre i toni legno caldi dei mobili aggiungono bellezza naturale e comfort.<br><br>Lo spazio bilancia con successo linee pulite con texture invitanti, creando un ambiente perfetto sia per pasti informali in famiglia che per intrattenimento elegante.",
+    "tag": "Sala da Pranzo"
+  },
+  {
+    "id": 29,
+    "titulo": "Sala da Pranzo Minimalista",
+    "subtitulo": "Eleganza in Toni Chiari",
+    "src": "/nostriProgetti/dining5.jpg",
+    "alt": "Sala da pranzo minimalista con mobili bianchi e accenti in legno",
+    "texto": "Questa sala da pranzo minimalista raggiunge l'eleganza attraverso un design contenuto e un'attenta attenzione ai dettagli. Le linee pulite dei mobili bianchi sono ammorbidite da accenti in legno naturale, creando uno spazio bilanciato e armonioso. I soffitti alti e le grandi finestre riempiono la stanza di luce naturale.<br><br>Il posizionamento strategico di piante e sottili elementi decorativi aggiunge vita allo spazio mantenendo la sua estetica serena e ordinata. Il risultato è una sala da pranzo che sembra sia sofisticata che accogliente.",
+    "tag": "Sala da Pranzo"
+  },
+  {
+    "id": 30,
+    "titulo": "Sala da Pranzo Industriale Moderna",
+    "subtitulo": "Illuminazione Geometrica e Legno Caldo",
+    "src": "/nostriProgetti/dining6.jpg",
+    "alt": "Sala da pranzo moderna con lampadari geometrici e mobili in legno",
+    "texto": "Questa sala da pranzo fonde con successo elementi industriali e design moderno per creare uno spazio sorprendente per intrattenere. I lampadari neri geometrici fanno una dichiarazione audace mentre offrono un'illuminazione perfetta per pranzare. I mobili e gli armadi in legno caldo ammorbidiscono gli elementi industriali.<br><br>L'integrazione attenta dei materiali - dagli accenti neri lucidi ai toni legno naturali - crea un design coerente che è sia elegante che funzionale. Lo spazio offre un'ambientazione ideale per tutto, dai pasti informali in famiglia alle cene formali.",
+    "tag": "Sala da Pranzo"
+  }
+]

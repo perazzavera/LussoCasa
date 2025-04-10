@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "HOME",
+    "to": "/"
+  },
+  {
+    "id": 2,
+    "nome": "Chi Siamo",
+    "to": "/chisiamo"
+  },
+  {
+    "id": 3,
+    "nome": "Servizi",
+    "to": "/servizi"
+  },
+  {
+    "id": 4,
+    "nome": "Progetti",
+    "to": "/progetti"
+  },
+  {
+    "id": 5,
+    "nome": "Contatti",
+    "to": "/contatti"
+  }
+]

@@ -1,0 +1,48 @@
+.container {
+  background-color: var(--verde-claro);
+  padding: 0 0 5em;
+}
+
+.details h3 {
+  color: var(--verde);
+  font-weight: 500;
+}
+
+.details p {
+  color: var(--verde-oliva);
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  padding: 100px 200px;
+  justify-content: space-between;
+}
+
+.imagem {
+  width: 400px;
+  max-height: 500px;
+  border-radius: 20px;
+}
+
+.texto {
+  width: 800px;
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2em;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+}
+
+.botao {
+  background-color: var(--verde-oliva);
+  border: none;
+  padding: 1em 2em;
+  border-radius: 18px;
+  color: var(--verde-claro);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.botao:hover {
+  background-color: var(--verde);
+}
+/* Servizi.module.css */

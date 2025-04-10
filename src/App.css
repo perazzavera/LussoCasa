@@ -1,0 +1,48 @@
+:root {
+  --fonte-principal: "MontSerrat", sans-serif;
+  --fonte-secundaria: "Cinzel", serif;
+  --fonte-terciaria: "Cormorant Garamond", serif;
+  --preto-principal: #292f36;
+  --preto-secundario: #4d5053;
+  --marrom-principal: #d8a876;
+  --marrom-secundario: #c76904;
+  --cinza: #f1f1f1;
+  --branco: #ffffff;
+  --verde: #00382d;
+  --verde-oliva: #a3b18a;
+  --verde-claro: #dde6d1;
+  --caramelo-claro: #c69c6d;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--fonte-principal);
+  font-size: 18px;
+  color: var(--branco);
+  background-color: var(--verde-claro);
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: var(--verde-oliva);
+  background-color: var(--verde);
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: var(--fonte-secundaria);
+}
+
+.navbar-nav .nav-link {
+  font-family: "MontSerrat", serif;
+  text-transform: uppercase;
+}
+
+.btn-close {
+  --bs-btn-close-color: #000;
+  --bs-btn-close-bg: ;
+}

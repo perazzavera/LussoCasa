@@ -1,0 +1,53 @@
+.container {
+  background-color: var(--verde);
+  color: var(--verde-claro);
+}
+
+.container h2 {
+  font-family: var(--fonte-secundaria);
+  font-size: 4em;
+  margin: 0;
+}
+
+.conteudo {
+  display: flex;
+  justify-content: space-around;
+  padding: 2em 15vw;
+}
+
+.conteudo h5 {
+  font-size: 1.2em;
+  padding-bottom: 0.5em;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--verde-claro);
+  padding-bottom: 1em;
+}
+
+.sociais {
+  display: flex;
+  gap: 1em;
+  font-size: 1.5em;
+}
+
+.sociais a {
+  text-decoration: none;
+  color: var(--verde-oliva);
+}
+.git {
+  color: var(--verde-oliva);
+}
+
+.direitos {
+  border-top: 1px solid var(--verde-claro);
+  display: flex;
+  justify-content: center;
+  padding: 2em 0 1em 0;
+}

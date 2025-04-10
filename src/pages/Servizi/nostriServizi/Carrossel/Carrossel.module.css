@@ -1,0 +1,22 @@
+.container {
+  padding: 3em 5em;
+}
+
+.imagem {
+  width: 450px;
+  height: 500px;
+  transition: 0.3s ease-in-out;
+  border-radius: 20px;
+}
+.card {
+  background-color: var(--verde-claro);
+  padding: 5em 6em;
+}
+
+.botao {
+  border-radius: 50%;
+  color: var(--verde);
+  background-color: var(--verde-claro);
+  border: none;
+  padding-right: 0.5em;
+}
