@@ -19,7 +19,7 @@
 
 .imagem {
   width: 300px;
-  max-height: 400px;
+  max-height: 380px;
   border-radius: 20px;
   transition: 0.3s ease-in-out;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
@@ -37,7 +37,7 @@
 }
 
 .conteudo p {
-  color: var(--preto-secundario);
+  color: var(--verde);
   width: 300px;
   text-align: center;
 }

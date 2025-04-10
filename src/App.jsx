@@ -9,6 +9,10 @@ import DetagliServizi from "./pages/Servizi/DetagliServizi";
 import ScrollToTop from "./componentes/ScrollToTop";
 import ChiSiamo from "./pages/ChiSiamo";
 import Contatti from "./pages/Contatti";
+// Importando os estilos do PrimeReact
+import "primereact/resources/themes/lara-light-indigo/theme.css"; // Tema
+import "primereact/resources/primereact.min.css"; // Estilos do PrimeReact
+import "primeicons/primeicons.css"; // Ícones do PrimeReact
 
 function App() {
   return (
