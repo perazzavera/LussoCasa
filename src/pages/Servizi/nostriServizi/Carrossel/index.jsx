@@ -35,6 +35,7 @@ export default function Carrossel() {
   return (
     <div className={styles.card}>
       <Carousel
+        showIndicators={false}
         value={immaginiExtra}
         itemTemplate={itemTemplate}
         numVisible={3} // fallback padrão para desktop
